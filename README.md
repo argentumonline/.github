@@ -10,5 +10,5 @@ Este repositorio contiene un listado de plantillas usadas por todos los reposito
 - [Guía de contribución](.github/CONTRIBUTING.md)
 - [Código de conducta](.github/CODE_OF_CONDUCT.md)
 - Templates
-  - [Template para reporte de Bugs](.github/ISSUE_TEMPLATE/bug_report.md)
+  - [Template para reporte de Bugs](.github/ISSUE_TEMPLATE/bug-report.md)
   - [Template para propuestas de nuevos cambios](.github/ISSUE_TEMPLATE/feature_request.md)

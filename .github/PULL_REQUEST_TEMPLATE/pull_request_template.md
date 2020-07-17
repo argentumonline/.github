@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Descripcion**  
-Por favor, incluye una breve descripción del cambio y qué Bug resuelve. También, incluye un listado de las dependencias de este cambio (herramientas externas, configuraciones, etc), asi como también un paso a paso de los requerimientos especiales para probar este arreglo.
+Por favor, incluye una breve descripción del cambio y qué bug resuelve. También, incluye un listado de las dependencias de este cambio (herramientas externas, configuraciones, etc), asi como también un paso a paso de los requerimientos especiales para probar este arreglo.
 
 **Soluciona Bug # (issue):**  
 Número del bug que soluciona este PR.

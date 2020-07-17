@@ -7,25 +7,25 @@ assignees: ''
 
 ---
 
-**Descripción del bug**
+**Descripción del bug**  
 Una descripción clara y concisa del error reportado
 
-**Pasos para reproducir el bug**
+**Pasos para reproducir el bug**  
 1. Paso 1
 2. Paso 2
 3. Paso 3
 4. Paso 4
 
-**Resultado esperado**
+**Resultado esperado**  
 Una descripción concisa y bien explicada de los resultados esperados
 
-**Screenshots**
+**Screenshots**  
 Si aplica, por favor adjunta screenshots.
 
-**Sistema Operativo**
+**Sistema Operativo**  
 - [] Windows
 - [] Linux
 - [] MacOS
 
-**Información adicional**
+**Información adicional**  
 Cualquier otra información adicional que quieras agregar

@@ -72,7 +72,7 @@ La información requerida en ese template nos va a ayudar a validar el bug lo m�
 > **Nota:** Si encuentras un Bug reportado con estado **Closed** que parezca ser el mismo bug que estás experimentando, por favor crea un nuevo issue y asegurate de poner una referencia al issue anterior.
 
 ### Proponiendo mejoras
-Existen diferentes tipos de mejoras que se pueden proponer, que pueden incluir desde cambios menores a funcionalidad existente, o nueva funcionalidad.
+Existen diferentes tipos de mejoras que se pueden proponer, que pueden incluir desde cambios menores a funcionalidad existente, o nuevas funcionalidades.
 Antes de crear un issue para proponer una mejora, por favor revisa si la misma no fue propuesta por otra persona.
 Cuando crees un issue con una propuesta, por favor escribe la mayor cantidad de detalles completando el [template obligatorio](https://github.com/argentumonline/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
 La información requerida en ese template nos va a ayudar a evaluar la propuesta lo más rápido posible.

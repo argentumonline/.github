@@ -1,32 +1,36 @@
-# Contribuyendo con Argentum Online
 
+<p align="center">
+    <img src="http://foro.comunidadargentum.com/images/dragonbyte_mmogaming/misc/vbulletin4_logo.png" />
+</p>
+<h1 align="center">
+    <span>Guía de contribución a Argentum Online </span>
+</h1>
 
+  
 :+1::tada: Antes que nada, ¡gracias por tomarte el tiempo y contribuir con Argentum Online! :tada::+1:
 
 Lo que sigue a continuación es una serie de lineamientos para contribuir a cualquiera de los proyectos de Argentum Online, que se encuentran hospedados en la [Organización de Argentum Online](https://github.com/argentumonline) en GitHub. Estos son lineamientos, no reglas. Por favor, usá tu mejor juicio, y sentite libre de proponer cambios a este documentos creando un Pull Request.
 
 #### Tabla de Contenidos
-- [Contribuyendo con Argentum Online](#contribuyendo-con-argentum-online)
-      - [Tabla de Contenidos](#tabla-de-contenidos)
-  - [Código de Conducta](#código-de-conducta)
-  - [Canales de comunicación disponibles](#canales-de-comunicación-disponibles)
-  - [¿Qué debo saber antes de comenzar?](#qué-debo-saber-antes-de-comenzar)
-    - [Decisiones de diseño en Argentum Online](#decisiones-de-diseño-en-argentum-online)
-    - [Decisiones sobre mecánicas de juego en Argentum Online](#decisiones-sobre-mecánicas-de-juego-en-argentum-online)
-  - [¿Cómo puedo contribuir?](#cómo-puedo-contribuir)
-    - [Reportando bugs](#reportando-bugs)
-    - [Proponiendo mejoras](#proponiendo-mejoras)
-    - [Contribuyendo al código fuente](#contribuyendo-al-código-fuente)
-      - [Desarrollo local](#desarrollo-local)
-    - [Pull Requests](#pull-requests)
-  - [Guias de estilo](#guias-de-estilo)
-    - [Nombres de Branches](#nombres-de-branches)
-    - [Mensajes de Commit](#mensajes-de-commit)
-    - [Guía de estilos para cada lenguaje](#guía-de-estilos-para-cada-lenguaje)
-    - [Etiquetas (Labels)](#etiquetas-labels)
-      - [Labels para tipos de Issues](#labels-para-tipos-de-issues)
-      - [Etiquetas de Categoría](#etiquetas-de-categoría)
-      - [Pull Request Labels](#pull-request-labels)
+- [Código de Conducta](#código-de-conducta)
+- [Canales de comunicación disponibles](#canales-de-comunicación-disponibles)
+- [¿Qué debo saber antes de comenzar?](#qué-debo-saber-antes-de-comenzar)
+  - [Decisiones de diseño en Argentum Online](#decisiones-de-diseño-en-argentum-online)
+  - [Decisiones sobre mecánicas de juego en Argentum Online](#decisiones-sobre-mecánicas-de-juego-en-argentum-online)
+- [¿Cómo puedo contribuir?](#cómo-puedo-contribuir)
+  - [Reportando bugs](#reportando-bugs)
+  - [Proponiendo mejoras](#proponiendo-mejoras)
+  - [Contribuyendo al código fuente](#contribuyendo-al-código-fuente)
+    - [Desarrollo local](#desarrollo-local)
+  - [Pull Requests](#pull-requests)
+- [Guias de estilo](#guias-de-estilo)
+  - [Nombres de Branches](#nombres-de-branches)
+  - [Mensajes de Commit](#mensajes-de-commit)
+  - [Guía de estilos para cada lenguaje](#guía-de-estilos-para-cada-lenguaje)
+  - [Etiquetas (Labels)](#etiquetas-labels)
+    - [Labels para tipos de Issues](#labels-para-tipos-de-issues)
+    - [Etiquetas de Categoría](#etiquetas-de-categoría)
+    - [Pull Request Labels](#pull-request-labels)
 
 ## Código de Conducta
 
@@ -173,4 +177,6 @@ Si tenes una sugerencia para agregar alguna etiqueta nueva, por favor abre un Pu
 | `under-review`     | Pull request que está siendo revisado.                                       |
 | `requires-changes` | Pull request que necesita cambios después de haber sido revisado.            |
 | `needs-testing`    | Pull request que requiere pruebas manuales para verificar su funcionamiento. |
+
+
 

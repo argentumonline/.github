@@ -102,7 +102,7 @@ Por favor, sigue estos pasos para que tu contribución sea considerada por los m
 2. Sigue las [Guias de estilo](#Guias-de-estilo)
 3. Después de crear tu pull request, verifica que todos los [status checks](https://help.github.com/articles/about-status-checks/) estén pasando correctamente
 
-> NOTA: ¿Qué pasa si un statis check está fallando? Si un status check falla, y consideras que la falla no está relacionada con tu cambio, por favor deja un comentario en el Pull Request explicando por qué consideras que no está relacionado. Un responsable del mantenimiento revisará y evaluará la situación, trabajando contigo para que se los checks se resuelvan.  
+> NOTA: ¿Qué pasa si un status check está fallando? Si un status check falla, y consideras que la falla no está relacionada con tu cambio, por favor deja un comentario en el Pull Request explicando por qué consideras que no está relacionado. Un responsable del mantenimiento revisará y evaluará la situación, trabajando contigo para que se los checks se resuelvan.  
 
 Mientras que los requisitos arriba mencionados tienen que ser cumplidos antes de que tu código sea revisado, los reviewers pueden pedirte que hagas cambios adicionales al diseño, pruebas o cualquier otra cosa que se considere necesario antes de que el PR sea aceptado.
 

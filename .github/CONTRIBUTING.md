@@ -56,11 +56,11 @@ Discord es un servicio de Chat destinado a toda la comunidad del juego, incluyen
 ### Decisiones de diseño en Argentum Online
 
 Argentum Online es un juego MMORPG Open Source, lo que significa que su código es abierto para que cualquier usuario lo descargue y cree sus propios forks, pero esto no significa que las mecánicas a implementar sean decididas por la comunidad abiertamente.
-El Staff del proyecto es el único equipo autorizado a tomar decisiones y aprobar cambios sobre la arquitectura del juego. Cualquier recomendación y contribución es bienvenida, y nos comprometemos a trabajar con los usuarios que contribuyan para adaptar cualquier propuesta a los requerimientos del juego
+El Staff del proyecto es el único equipo autorizado a tomar decisiones y aprobar cambios sobre la arquitectura del juego. Cualquier recomendación y contribución es bienvenida, y nos comprometemos a trabajar con los usuarios que contribuyan para adaptar cualquier propuesta a los requerimientos del juego.
 
 ### Decisiones sobre mecánicas de juego en Argentum Online
-Debido a que Argentum Online es un juego, las decisiones sobre las mecánicas nuevas deben pasar por los equipos de Game Design y Balance, que son los que se encargan de asegurarse que cualquier propuesta encaje junto al resto de las mecánicas.
-Si se desea proponer una nueva mecánica o cambio a una mecánica existente, les recomendamos que antes de contribuir el código creen un Issue en Github siguiendo los lineamientos para solicitudes de features, y luego utilicen [los canales de comunicaciones disponibles](#canales-de-comunicación-disponibles) para discutirlo con dichos equipos.
+Debido a que Argentum Online es un juego, las decisiones sobre las mecánicas nuevas deben pasar por los equipos de Game Design y Balance, que son los que se encargan de asegurarse que cualquier propuesta encaje junto al resto de las mecánicas y que no generen un desbalance en el juego.
+Si deseas proponer una nueva mecánica o cambio a una mecánica existente, te recomendamos que antes de contribuir el código crees un Issue en Github siguiendo los lineamientos para solicitudes de features, y luego utilices [los canales de comunicaciones disponibles](#canales-de-comunicación-disponibles) para discutirlo con dichos equipos.
 
 
 ## ¿Cómo puedo contribuir?
@@ -72,13 +72,13 @@ La información requerida en ese template nos va a ayudar a validar el bug lo m�
 > **Nota:** Si encuentras un Bug reportado con estado **Closed** que parezca ser el mismo bug que estás experimentando, por favor crea un nuevo issue y asegurate de poner una referencia al issue anterior.
 
 ### Proponiendo mejoras
-Existen diferentes tipos de mejoras que se pueden proponer, que pueden incluir desde cambios menores a funcionalidad existente, o nueva funcionalidad.
+Existen diferentes tipos de mejoras que se pueden proponer, que pueden incluir desde cambios menores a funcionalidad existente, o nuevas funcionalidades.
 Antes de crear un issue para proponer una mejora, por favor revisa si la misma no fue propuesta por otra persona.
 Cuando crees un issue con una propuesta, por favor escribe la mayor cantidad de detalles completando el [template obligatorio](https://github.com/argentumonline/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
-La información requerida en ese template nos va a ayudar a validar el bug lo más rápido posible
+La información requerida en ese template nos va a ayudar a evaluar la propuesta lo más rápido posible.
 
 ### Contribuyendo al código fuente
-Argentum Online está compuesto por varios proyectos (cliente, servidor, herramientas, etc). ¿No estás seguro por dónde empezar? Podrías comenzar por revisar los issues que contenta los labels `beginner` y `help-wanted`.
+Argentum Online está compuesto por varios proyectos (cliente, servidor, herramientas, etc). ¿No estás seguro por dónde empezar? Podrías comenzar por revisar los issues que contengan las etiquetas `beginner` y `help-wanted`.
 
 * `beginner` - Issues que solo deberían requerir cambios en algunas líneas de código.
 * `help-wanted` - Issues para los que se requiere un poco más de conocimientos sobre la plataforma.
@@ -102,9 +102,9 @@ Por favor, sigue estos pasos para que tu contribución sea considerada por los m
 2. Sigue las [Guias de estilo](#Guias-de-estilo)
 3. Después de crear tu pull request, verifica que todos los [status checks](https://help.github.com/articles/about-status-checks/) estén pasando correctamente
 
-> NOTA: ¿Qué pasa si un statis check está fallando? Si un status check falla, y consideras que la falla no está relacionada con tu cambio, por favor deja un comentario en el Pull Request explicando por qué consideras que no está relacionado. Un responsable del mantenimiento revisará y evaluará la situación, trabajando contigo para que se los checks se resuelvan.
+> NOTA: ¿Qué pasa si un status check está fallando? Si un status check falla, y consideras que la falla no está relacionada con tu cambio, por favor deja un comentario en el Pull Request explicando por qué consideras que no está relacionado. Un responsable del mantenimiento revisará y evaluará la situación, trabajando contigo para que se los checks se resuelvan.  
 
-While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
+Mientras que los requisitos arriba mencionados tienen que ser cumplidos antes de que tu código sea revisado, los reviewers pueden pedirte que hagas cambios adicionales al diseño, pruebas o cualquier otra cosa que se considere necesario antes de que el PR sea aceptado.
 
 ## Guias de estilo
 
@@ -178,5 +178,7 @@ Si tenes una sugerencia para agregar alguna etiqueta nueva, por favor abre un Pu
 | `requires-changes` | Pull request que necesita cambios después de haber sido revisado.            |
 | `needs-testing`    | Pull request que requiere pruebas manuales para verificar su funcionamiento. |
 
+#
 
+>NOTA: Este documento fue creado en base a la guía de contribución del [proyecto Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 

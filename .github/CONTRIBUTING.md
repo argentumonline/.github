@@ -9,7 +9,7 @@
   
 :+1::tada: Antes que nada, ¡gracias por tomarte el tiempo y contribuir con Argentum Online! :tada::+1:
 
-Lo que sigue a continuación es una serie de lineamientos para contribuir a cualquiera de los proyectos de Argentum Online, que se encuentran hospedados en la [Organización de Argentum Online](https://github.com/argentumonline) en GitHub. Estos son lineamientos, no reglas. Por favor, usá tu mejor juicio, y sentite libre de proponer cambios a este documentos creando un Pull Request.
+Lo que sigue a continuación es una serie de lineamientos para contribuir a cualquiera de los proyectos que se encuentran hospedados en la [Organización de Argentum Online](https://github.com/argentumonline) en GitHub. Estos son lineamientos, no reglas. Por favor, usá tu mejor juicio, y sentite libre de proponer cambios a este documentos creando un Pull Request.
 
 #### Tabla de Contenidos
 - [Código de Conducta](#código-de-conducta)
@@ -34,7 +34,7 @@ Lo que sigue a continuación es una serie de lineamientos para contribuir a cual
 
 ## Código de Conducta
 
-Este proyecto y todos los participantes están gobernados por el [Código de Conducta de Argentum Online](CODE_OF_CONDUCT.md). Participando en el desarrollo, se espera que te adhieras a este código. Por favor, reporta cualquier comportamiento inaceptable enviando un correo a [direccion@comunidadargentum.com](mailto:codeofconduct@comunidadargentum.com).
+Este proyecto y todos los participantes están gobernados por el [Código de Conducta de Argentum Online](.github/CODE_OF_CONDUCT.md). Participando en el desarrollo, se espera que te adhieras a este código. Por favor, reporta cualquier comportamiento inaceptable enviando un correo a [direccion@comunidadargentum.com](mailto:codeofconduct@comunidadargentum.com).
 
 ## Canales de comunicación disponibles
 
@@ -43,8 +43,7 @@ Este proyecto y todos los participantes están gobernados por el [Código de Con
 El proyecto Argentum Online mantiene varios medios de comunicación con todos los miembros de su comunidad (ya sean desarrolladores, diseñadores, o jugadores).
 
 * [Foro Oficial de Argentum Online](http://foro.comunidadargentum.com)
-* [Unite al servidor de Discord de Argentum Online](https://discord.gg/argentumonline)
-Discord es un servicio de Chat destinado a toda la comunidad del juego, incluyendo a los jugadores del Servidor Oficial. Si te interesa participar de discusiones sobre desarrollo, te recomiendo participar de los siguientes canales:
+* [ Discord de Argentum Online](https://discord.gg/argentumonline) es un servicio de Chat destinado a toda la comunidad del juego, incluyendo a los jugadores del Servidor Oficial de Argentum Online. Si te interesa participar de discusiones sobre desarrollo, te recomendamos participar de los siguientes canales:
     * Usa el canal `#🧙🏽programacion` para discusiones acerca del código del juego y sus herramientas
     * Usa el canal `#🌏mapeo` para discusiones acerca de los mapas del juego y las herramientas para construirlos
     * Usa el canal `#🎨graficacion` para discusiones acerca de los gráficos del juego
@@ -181,4 +180,3 @@ Si tenes una sugerencia para agregar alguna etiqueta nueva, por favor abre un Pu
 #
 
 >NOTA: Este documento fue creado en base a la guía de contribución del [proyecto Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
-

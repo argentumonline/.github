@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links
-  - name Argentum Online Code of Conduct
-    url https://dev.comunidadargentum.com/code-of-conduct
+  - name Argentum Online - Alkon - Code of Conduct
+    url https://dev.alkononline.com.ar/code-of-conduct
     about Please report security vulnerabilities here.
   - name Argentum Online Security Vulnerability Reports
-    url https://dev.comunidadargentum.com/security
+    url https://dev.alkononline.com.ar/security
     about Please report security vulnerabilities here.  
-  - name Argentum Online Community Forums
-    url http://foro.comunidadargentum.com
-    about Forums to intectact with the entire community
+  - name Argentum Online - Alkon - Website
+    url https://www.alkononline.com.ar
+    about Website
   - name Argentum Online Discord Server
     url https://discord.gg/argentumonline
     about Discord server to chat with the team and the community
